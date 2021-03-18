@@ -18,3 +18,7 @@ class EmailParser
   end
 
 end
+<<<<<<< HEAD
+=======
+
+>>>>>>> b89161e4e0b641d6cf85f8cbf2a3dd3cedc770b2
